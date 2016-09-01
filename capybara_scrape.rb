@@ -1,5 +1,6 @@
 require 'capybara'
 require 'capybara/poltergeist'
+require 'capybara/dsl'
 
 include Capybara::DSL
 
